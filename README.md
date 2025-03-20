@@ -3,7 +3,7 @@
 A simple and interactive web application that allows users to log their daily moods and track emotional trends over time.
 
 ## Live Demo  
-[View the Deployed App]() 
+[View the Deployed App](https://daily-emotion-tracker.netlify.app/) 
 
 ## Features  
 ✔️ Log your mood daily with emoji-based selection  
